@@ -1,0 +1,18 @@
+{
+  "Name": "EEG RKI",
+  "BIDSVersion": "1.7.0",
+  "License": "",
+  "Authors": [
+    ""
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "HEDVersion": "8.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "EEG-BIDS",
+      "Version": "10.5"
+    }
+  ]
+}
