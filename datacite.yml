@@ -3,20 +3,25 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
-      - name: Achmad Imam Kistijantoro
+      - name: Lianna G. H. Margareta
         givenName: ''
         familyName: ''
         nameType: Personal
-        nameIdentifiers: &ref_0
-          - nameIdentifier: https://orcid.org/0000-0003-2065-6675
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: ContactPerson
+        nameIdentifiers: []
+        contributorType: Researcher
         order: 1
-    creators:
-      - name: Achmad Imam Kistijantoro
+      - name: Haura R. Haminullah
+        givenName: ''
+        familyName: ''
         nameType: Personal
-        nameIdentifiers: *ref_0
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+    creators:
+      - name: Lianna G. H. Margareta
+        nameType: Personal
+      - name: Haura R. Haminullah
+        nameType: Personal
     descriptions:
       - description: N/A
         descriptionType: Abstract
