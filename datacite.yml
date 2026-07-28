@@ -25,7 +25,7 @@ data:
           - nameIdentifier: https://orcid.org/0000-0003-2065-6675
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
-        contributorType: ContactPerson
+        contributorType: Researcher
         order: 3
     creators:
       - name: Lianna G. H. Margareta
