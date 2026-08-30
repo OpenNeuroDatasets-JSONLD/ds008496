@@ -4,5 +4,11 @@
   },
   "sex": {
 	"Description": "participants' sex"
+  },
+  "age": {
+	  "Description": "participants' age"
+  },
+  "handedness": {
+	  "Description": "participants' handedness"
   }
 }
