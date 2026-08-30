@@ -1,16 +1,16 @@
-participant_id
-sub-001
-sub-002
-sub-003
-sub-004
-sub-005
-sub-006
-sub-007
-sub-008
-sub-009
-sub-010
-sub-011
-sub-012
-sub-013
-sub-014
-sub-015
+participant_id	sex
+sub-001	F
+sub-002	M
+sub-003	F
+sub-004	M
+sub-005	F
+sub-006	M
+sub-007	F
+sub-008	M
+sub-009	F
+sub-010	M
+sub-011	F
+sub-012	M
+sub-013	F
+sub-014	M
+sub-015	M
