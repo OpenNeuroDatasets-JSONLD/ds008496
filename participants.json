@@ -1,13 +1,4 @@
 {
-"age": {
-    "LongName": "",
-    "Description": "age of the participant",
-    "Levels": {
-    },
-    "Units": "years",
-    "TermURL": "https://www.todo.com/fixme",
-    "HED": "Age/#"
-  },
   "sex": {
     "LongName": "",
     "Description": "sex of the participant as reported by the participant",
@@ -20,17 +11,6 @@
       "f": "Female"
     },
     "TermURL": "https://www.todo.com/fixme"
-  },
-  "handedness": {
-    "LongName": "",
-    "Description": "handedness of the participant as reported by the participant",
-    "Levels": {
-      "l": "left",
-      "r": "right"
-    },
-    "TermURL": "https://www.todo.com/fixme",
-    "HED": {
-      "l": "Left-handed",
-      "r": "Right-handed"
-    }
-  }}
+  }
+
+}
