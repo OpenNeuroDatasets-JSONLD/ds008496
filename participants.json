@@ -10,5 +10,14 @@
   },
   "handedness": {
 	  "Description": "participants' handedness"
+  },
+  "species": {
+	  "Description": "participants' species"
+  },
+  "strain": {
+	  "Description" : "participants' strain"
+  },
+  "strain_rrid": {
+	  "Description" : "participants' strain rrid"
   }
 }
