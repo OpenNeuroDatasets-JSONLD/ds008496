@@ -1,23 +1,36 @@
 {
-  "participant_id": {
-    "Description": "participants' IDs"
+"age": {
+    "LongName": "",
+    "Description": "age of the participant",
+    "Levels": {
+    },
+    "Units": "years",
+    "TermURL": "https://www.todo.com/fixme",
+    "HED": "Age/#"
   },
   "sex": {
-	"Description": "participants' sex"
-  },
-  "age": {
-	  "Description": "participants' age"
+    "LongName": "",
+    "Description": "sex of the participant as reported by the participant",
+    "Levels": {
+      "m": "male",
+      "f": "female"
+    },
+    "HED": {
+      "m": "Male",
+      "f": "Female"
+    },
+    "TermURL": "https://www.todo.com/fixme"
   },
   "handedness": {
-	  "Description": "participants' handedness"
-  },
-  "species": {
-	  "Description": "participants' species"
-  },
-  "strain": {
-	  "Description" : "participants' strain"
-  },
-  "strain_rrid": {
-	  "Description" : "participants' strain rrid"
-  }
-}
+    "LongName": "",
+    "Description": "handedness of the participant as reported by the participant",
+    "Levels": {
+      "l": "left",
+      "r": "right"
+    },
+    "TermURL": "https://www.todo.com/fixme",
+    "HED": {
+      "l": "Left-handed",
+      "r": "Right-handed"
+    }
+  }}
