@@ -1,16 +1,16 @@
-participant_id	sex
-sub-001	F
-sub-002	M
-sub-003	F
-sub-004	M
-sub-005	F
-sub-006	M
-sub-007	F
-sub-008	M
-sub-009	F
-sub-010	M
-sub-011	F
-sub-012	M
-sub-013	F
-sub-014	M
-sub-015	M
+participant_id	sex	age	handedness
+sub-001	F	n/a	n/a
+sub-002	M	n/a	n/a
+sub-003	F	n/a	n/a
+sub-004	M	n/a	n/a
+sub-005	F	n/a	n/a
+sub-006	M	n/a	n/a
+sub-007	F	n/a	n/a
+sub-008	M	n/a	n/a
+sub-009	F	n/a	n/a
+sub-010	M	n/a	n/a
+sub-011	F	n/a	n/a
+sub-012	M	n/a	n/a
+sub-013	F	n/a	n/a
+sub-014	M	n/a	n/a
+sub-015	M	n/a	n/a
