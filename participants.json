@@ -1,4 +1,7 @@
 {
+  "participant_id": {
+    "Description": "Unique participant identifier"
+  },
   "sex": {
     "LongName": "",
     "Description": "sex of the participant as reported by the participant",
